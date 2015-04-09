@@ -3,6 +3,7 @@
 // inland: 9ZZ3BOS4
 
 #include <fstream>
+#include <cstdlib>
 
 #include "StdTreeBuilder.h" 
 #include "FileInfo.h"
