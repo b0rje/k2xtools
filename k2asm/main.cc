@@ -1,5 +1,7 @@
 
 #include <fstream>
+#include <cstdlib>
+
 #ifdef HAVE_POPT
 #include <popt.h>
 
